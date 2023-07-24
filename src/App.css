@@ -42,10 +42,13 @@ body{
 .component{
   background-color: yellow;
   padding-left: 50px;
+  text-align: center;
+
 }
 .main{
   background-color: blue;
   padding-left: 50px;
+  text-align: center;
 
 }
 img{
