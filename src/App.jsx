@@ -1,12 +1,13 @@
-import Heading from "./Heading";
-import Child from "./Child";
-import './App.css';
-
+import Quiz from "./components/Quiz";
 
 function App() {
-return(<div>
- <Child/>
-  <Heading/></div> );
+ 
+  
+
+return(
+<div className='app' >
+  <Quiz/>
+ </div> );
   
    
   
